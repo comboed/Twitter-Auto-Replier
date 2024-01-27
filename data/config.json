@@ -1,0 +1,13 @@
+{   
+    "monitor_run_period": 5,
+    "monitor_sleep_delay": 60,
+    "spammer_goroutines": 10,
+    
+    "bot_reply_message": "MESSAGE",
+    "image": {
+        "image_reply": true,
+        "image_file_path": "./data/image.png"
+    },
+    "telegram_bot_token": "BOT_TOKEN",
+    "telegram_chat_id": "CHAT_ID"
+}
